@@ -1,3 +1,5 @@
+(FORKED FROM [https://github.com/ChengBinJin/V-GAN-tensorflow](ChecngBinJin))
+
 # V-GAN in Tensorflow
 This repository is Tensorflow implementation of [Retinal Vessel Segmentation in Fundoscopic Images with Generative Adversarial Networks](https://arxiv.org/pdf/1706.09318.pdf). The referenced keras code can be found [here](https://github.com/jaeminSon/V-GAN).
 
